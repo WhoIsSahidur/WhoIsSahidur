@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2 align="center">Profile Views Counter</h2>
+
+<div align="center">
+  <a href="https://u8views.com/github/Dev4Mod">
+    <img src="https://u8views.com/api/v1/github/profiles/15899174/views/day-week-month-total-count.svg">
+  </a>
+</div>
