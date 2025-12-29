@@ -23,4 +23,4 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
